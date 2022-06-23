@@ -1,4 +1,4 @@
-# healthCalendar (학교 과제 프로젝트)
+# healthCalendar (학교 모바일프로그래밍 프로젝트)
 
 1. 앱 기능
 ---------------
